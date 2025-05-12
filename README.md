@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasai2004&label=Profile%20views&color=0e75b6&style=flat" alt="divyasai2004" /> </p>
 
-- 🔭 I’m currently working on **Healthcare Chatbot** – AI-powered MERN Stack Project**
+- 🔭 I’m currently working on **Healthcare Chatbot** – AI-powered MERN Stack Project
 
-- 🌱 I’m currently learning **System Design**, **Advanced MongoDB Aggregations**, **Cloud Architecture** ☁️, AI/ML Integration 🤖.**
+- 🌱 I’m currently learning **System Design**, **Advanced MongoDB Aggregations**, **Cloud Architecture** , **AI/ML Integration**.
 
-- 👯 I’m looking to collaborate on **Cool projects that involve full-stack magic🪄, smart systems👩‍💻, or anything that pushes code boundaries🛸!**
+- 👯 I’m looking to collaborate on Cool projects that involve **full-stack magic🪄, smart systems, or anything that pushes code boundaries🛸!**
 
-- 💬 Ask me about **Full-Stack Development 💻, MERN Stack, API Integration 🔌, Authentication 🔑, and Database Optimization 🗄️.**
+- 💬 Ask me about **Full-Stack Development💻, MERN Stack, API Integration, Authentication 🔑, and Database Optimization.**
 
-- 📫 How to reach me **www.linkedin.com/in/ divyasai-ganti-44a49b319**
+- 📫 How to reach me **www.linkedin.com/in/divyasai-ganti-44a49b319**
 
 - ⚡ Fun fact **<I write code so fast, even my compiler needs a second to catch up!👩🏻‍💻🍵🍃/>**
 

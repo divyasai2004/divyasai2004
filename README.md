@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyasai Ganti</h1>
 <h3 align="center">💻Full-Stack Developer (MERN) | 🧠Fueled by Code, Logic, and Innovation | 🤖AI-Integrated Solutions Builder from 🇮🇳 ~🚀I Build With Purpose.</h3>
 
-<img align="right" alt="Codecrafter" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="Codecrafter" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasai2004&label=Profile%20views&color=0e75b6&style=flat" alt="divyasai2004" /> </p>
 

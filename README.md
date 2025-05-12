@@ -30,3 +30,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyasai2004&show_icons=true&locale=en" alt="divyasai2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasai2004&" alt="divyasai2004" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/divyasai2004/divyasai2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/divyasai2004/divyasai2004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/divyasai2004/divyasai2004/output/github-snake.svg" />
+</picture>
+

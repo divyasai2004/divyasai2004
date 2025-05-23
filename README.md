@@ -51,11 +51,7 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasai2004&show_icons=true&locale=en&layout=compact" alt="divyasai2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyasai2004&show_icons=true&locale=en" alt="divyasai2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasai2004&" alt="divyasai2004" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake-dark.svg" />

@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> , I'm Divyasai Ganti</h1>
-<h3 align="center">💻Full-Stack Developer (MERN) | 🧠Fueled by Code, Logic, and Innovation | 🤖AI-Integrated Solutions Builder from 🇮🇳 ~🚀I Build With Purpose.</h3>
+<h3 align="center">💻Full-Stack Developer (MERN) | 🧠Fueled by Code, Logic, and Innovation | 🤖AI-Integrated Solutions Builder from 🇮🇳 ~🚀</h3>
 
 <img align="right" alt="Codecrafter" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
